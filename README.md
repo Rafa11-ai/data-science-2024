@@ -5,24 +5,31 @@ Tujuan saya belajar Data Science selain untuk memenuhi nilai IPS dari perkuliaha
 
 Topik yang dikerjakan:
 Sesi 1 - Pengenalan Data Science
+
 Link Notebook : https://colab.research.google.com/drive/1hwVuyEpxjoS1nWE3gO0OfStBlVldkTod?usp=sharing
 
 Sesi 2 - Numpy dan Pandas
+
 Link Notebook : https://colab.research.google.com/drive/1td6uGaOARxThJQh2qq97J-xWGZQzadG3?usp=sharing
 
 Sesi 3 - Data Cleaning Missing, Outlier & Ekstraksi
+
 Link Notebook : https://colab.research.google.com/drive/1T3uWQlb5nQCifhtIjxwpDdmj1xIQa6ep?usp=sharing
 
 Sesi 4 - Statistika Dasar & Analisis Data
+
 Link Notebook : https://colab.research.google.com/drive/112IE5hG3TQoRxQ7Qkk1ZK8-QihymLn5k?usp=sharing
 
 Sesi 5 - Visualisasi Data
+
 Link Notebook : https://colab.research.google.com/drive/1rr-8Vo0_xTUp-KNNH-vx8rPU9KCuOOeV?usp=sharing
 
 Sesi 6 - Persiapan Data
+
 Link Notebook : https://colab.research.google.com/drive/1MA04jdIBCKrec7t1q099npUMZqVFUlOf?usp=sharing
 
 Sesi 7 - Pengantar Machine Learning
+
 Link Notebook : https://colab.research.google.com/drive/1jCZps3XOufEnxcAUN8aNsf1GXz1vTUsq?usp=sharing
 
 Tools yang digunakan:
