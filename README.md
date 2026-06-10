@@ -4,6 +4,7 @@ Perkenalkan, nama saya Rafa Hidayah dari PJJ Informatika, tepatnya di kelas IF40
 Tujuan saya belajar Data Science selain untuk memenuhi nilai IPS dari perkuliahan saya, saya juga ingin mendalami basic pemrograman dan logika dalam pemrograman, serta ingin belajar cara pengolahan data yang baik menggunakan metode pemrograman yang akan diajarkan di dalam mata kuliah ini.
 
 Topik yang dikerjakan:
+
 Sesi 1 - Pengenalan Data Science
 
 Link Notebook : https://colab.research.google.com/drive/1hwVuyEpxjoS1nWE3gO0OfStBlVldkTod?usp=sharing
