@@ -35,23 +35,25 @@ Link Notebook : https://colab.research.google.com/drive/1jCZps3XOufEnxcAUN8aNsf1
 
 Sesi 9 - Algoritma Klasifikasi Bagian 1
 
-Link Notebook :
+Link Notebook : https://colab.research.google.com/github/Rafa11-ai/data-science-2024/blob/main/Pertemuan9_%5BRafa_Hidayah_240401010203%5D.ipynb
 
 Sesi 10 - Algoritma Klasifikasi Bagian 2
 
-Link Notebook :
+Link Notebook : https://colab.research.google.com/github/Rafa11-ai/data-science-2024/blob/main/Pertemuan10_Rafa_Hidayah_240401010203.ipynb
 
 Sesi 11 - Unsupervised Learning Clustering
 
-Link Notebook :
+Link Notebook : https://colab.research.google.com/github/Rafa11-ai/data-science-2024/blob/main/Pertemuan11_Rafa_Hidayah_240401010203.ipynb
 
 Sesi 12 - Asosiasi Data dan Sistem Rekomendasi
 
-Link Notebook :
+Link Notebook : https://colab.research.google.com/github/Rafa11-ai/data-science-2024/blob/main/Pertemuan12_Rafa_Hidayah_240401010203.ipynb
 
 Sesi 13 - Deep Learning dan NLP Dasar
 
-Link Notebook : 
+Link Notebook : https://colab.research.google.com/github/Rafa11-ai/data-science-2024/blob/main/Pertemuan13_Rafa_Hidayah_240401010203.ipynb
+
+
 Tools yang digunakan:
 Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn.
 
