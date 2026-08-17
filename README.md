@@ -33,6 +33,25 @@ Sesi 7 - Pengantar Machine Learning
 
 Link Notebook : https://colab.research.google.com/drive/1jCZps3XOufEnxcAUN8aNsf1GXz1vTUsq?usp=sharing
 
+Sesi 9 - Algoritma Klasifikasi Bagian 1
+
+Link Notebook :
+
+Sesi 10 - Algoritma Klasifikasi Bagian 2
+
+Link Notebook :
+
+Sesi 11 - Unsupervised Learning Clustering
+
+Link Notebook :
+
+Sesi 12 - Asosiasi Data dan Sistem Rekomendasi
+
+Link Notebook :
+
+Sesi 13 - Deep Learning dan NLP Dasar
+
+Link Notebook : 
 Tools yang digunakan:
 Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn.
 
